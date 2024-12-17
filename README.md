@@ -18,6 +18,8 @@ Folder Structure Tracker is a Visual Studio Code extension that helps you quickl
 3. Type "Save Folder Structure"
 4. Select the command to generate the project structure
 
+![Screenshot](https://raw.githubusercontent.com/Evening-Elephant/folderstructure/refs/heads/main/images/folderstructure.gif)
+
 ## Excluded Folders
 
 The extension automatically excludes:
