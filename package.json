@@ -21,6 +21,11 @@
           }
       ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evening-Elephant/folderstructure"
+  },
+  "icon": "https://raw.githubusercontent.com/Evening-Elephant/folderstructure/refs/heads/main/images/FolderStructure.png",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "launch": "code --extensionDevelopmentPath=${PWD}",
